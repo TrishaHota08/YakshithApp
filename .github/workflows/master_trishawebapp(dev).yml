@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'trishawebapp'
           slot-name: 'dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D1DDAFB48164DE6A0666F9ECE9AD5A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C2DCD9D2DE649618FFC75569E49FD17 }}
           package: '*.jar'
